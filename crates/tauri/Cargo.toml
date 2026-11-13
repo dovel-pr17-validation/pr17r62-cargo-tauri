@@ -53,7 +53,7 @@ tokio = { version = "1", features = [
 ] }
 uuid = { version = "1", features = ["v4"], optional = true }
 url = "2"
-anyhow = "1"
+anyhow = "1.0.104"
 thiserror = "2"
 tauri-runtime = { workspace = true }
 tauri-macros = { workspace = true }
